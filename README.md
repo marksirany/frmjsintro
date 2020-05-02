@@ -1,2 +1,0 @@
-# frmjsintro
-Created with CodeSandbox
